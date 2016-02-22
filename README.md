@@ -7,7 +7,7 @@ Session Server for the "Changing Perspective" project
 * [Install Meteor](https://www.meteor.com/)
 * [Clone this repository](https://github.com/Vejron/CpSessionServer.git)
 * Type meteor in a shell to run the debug version
-* Open a browser at http://localhost:3000 to view the running app
+* Open a browser at [http://localhost:3000] to view the running app
 
 ## Deployment
 
